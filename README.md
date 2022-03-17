@@ -1,3 +1,6 @@
 # ListOpgaver
 opgaver
-Test
+Stor fed tissemand
+Hahah
+Yeeet
+Skeet
