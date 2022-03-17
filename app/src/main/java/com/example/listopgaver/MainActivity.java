@@ -25,6 +25,11 @@ public class MainActivity extends AppCompatActivity {
         List<Substances> substances = new ArrayList<>();
 
         substances.add(new Substances("Trenbolone Acetate"));
+        substances.add(new Substances("Trenbolone Acetate"));
+        substances.add(new Substances("Trenbolone Acetate"));
+        substances.add(new Substances("Trenbolone Acetate"));
+        substances.add(new Substances("Trenbolone Acetate"));
+
 
         PostAdapter postAdapter = new PostAdapter(substances);
         recyclerView.setAdapter(postAdapter);
